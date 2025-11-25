@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    height: 100px;
+    background-color: white;
+}
+
+    #counter{
+        font-size: 50px;
+        font-weight: bold;
+        color: aqua;
+    }
+   #clickButton {
+    padding: px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 8px;
+}
+
+#time{
+    margin: 90px;
+    font-size: 50px;
+    font-weight: bold;
+    color: darkred;
+}
+#area {
+
+    flex: auto;
+    background-color: blue;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
